@@ -8,7 +8,7 @@ find_package(OpenGL REQUIRED)
 
 #подключение файла с коадми src
 add_executable(hello_window 
-    src/config.h 
+    src/config.h
     src/main.cpp 
     src/glad.c
 )

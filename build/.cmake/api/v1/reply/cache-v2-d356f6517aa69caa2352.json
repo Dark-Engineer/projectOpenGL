@@ -1314,22 +1314,6 @@
 			"value" : "/usr/lib/x86_64-linux-gnu/libEGL.so"
 		},
 		{
-			"name" : "OPENGL_gl_LIBRARY",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a library."
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "/usr/lib/x86_64-linux-gnu/libGL.so"
-		},
-		{
 			"name" : "OPENGL_gles2_LIBRARY",
 			"properties" : 
 			[
@@ -1424,18 +1408,6 @@
 			],
 			"type" : "PATH",
 			"value" : "OPENGL_xmesa_INCLUDE_DIR-NOTFOUND"
-		},
-		{
-			"name" : "Open_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for Open."
-				}
-			],
-			"type" : "PATH",
-			"value" : "Open_DIR-NOTFOUND"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
