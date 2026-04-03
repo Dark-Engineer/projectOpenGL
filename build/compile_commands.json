@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/darkengineer/code/VSCode/projectOpenGL/build",
+  "command": "/usr/bin/c++  -I/home/darkengineer/code/VSCode/projectOpenGL/dependencies -g -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /home/darkengineer/code/VSCode/projectOpenGL/src/main.cpp",
+  "file": "/home/darkengineer/code/VSCode/projectOpenGL/src/main.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/darkengineer/code/VSCode/projectOpenGL/build",
+  "command": "/usr/bin/cc  -I/home/darkengineer/code/VSCode/projectOpenGL/dependencies -g -o CMakeFiles/hello_window.dir/src/glad.c.o -c /home/darkengineer/code/VSCode/projectOpenGL/src/glad.c",
+  "file": "/home/darkengineer/code/VSCode/projectOpenGL/src/glad.c",
+  "output": "CMakeFiles/hello_window.dir/src/glad.c.o"
+}
+]

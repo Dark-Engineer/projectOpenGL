@@ -1,0 +1,3 @@
+/home/darkengineer/code/VSCode/projectOpenGL/build/CMakeFiles/hello_window.dir
+/home/darkengineer/code/VSCode/projectOpenGL/build/CMakeFiles/edit_cache.dir
+/home/darkengineer/code/VSCode/projectOpenGL/build/CMakeFiles/rebuild_cache.dir
