@@ -6,7 +6,7 @@ cmake_policy(SET CMP0072 NEW)
 #включить openGL
 find_package(OpenGL REQUIRED)
 
-#подключение файла с коадми src
+#подключение файлов src
 add_executable(hello_window 
     src/config.h
     src/main.cpp 
