@@ -13,7 +13,7 @@
 sudo apt install build-essential gcc  g++ gdb
 ```
 
-Установка GLFW на для работы с графикой OpenGL
+Установка GLFW для работы с графикой OpenGL
 ```sh
 sudo apt-get install libglfw3-dev
 ```
